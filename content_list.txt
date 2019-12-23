@@ -1,0 +1,7 @@
+1. function types
+2. es5
+3. es6
+4. react basic
+
+Basic ReactJS tutorial link: https://scrimba.com/g/glearnreact
+refer all 57 videos from the above link
